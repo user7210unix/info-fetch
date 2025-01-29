@@ -18,7 +18,7 @@ curl -fsSL https://raw.githubusercontent.com/user7210unix/info-fetch/main/build.
 
 - :bento:  Displays essential system information.
 - :rocket: Supports various Linux window managers.
-- :leaves: Provides memory, CPU, disk usage, and much more.
+- :leaves: Provides memory, CPU, and much more.
 - :shell:  Easy to use and extend.
 
 <div align="center">
