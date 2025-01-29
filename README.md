@@ -1,17 +1,27 @@
-# Info Fetch
 
-A simple system information fetching script that provides details about your system, including CPU, memory, uptime, and more. Easily install and use with just one command!
 
-## Features
+### 𝙄𝙣𝙨𝙩𝙖𝙡𝙡𝙖𝙩𝙞𝙤𝙣 🥳
 
-- Displays essential system information.
-- Supports various Linux window managers.
-- Provides memory, CPU, disk usage, and much more.
-- Easy to use and extend.
+```
+curl -fsSL https://raw.githubusercontent.com/user7210unix/info-fetch/main/build.sh | bash
+```
 
-## Installation
+<div align="center">
 
-To install **Info Fetch**, simply run the following command in your terminal:
+<h1>
+      <img src="showcase/fetch.png" align="right" alt=" Preview" width="550" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+</div>
+</div> 
 
-```bash
-curl -sSL https://github.com/user7210unix/info-fetch/raw/main/build.sh | bash
+
+## ⚙️ Features
+
+- :bento:  Displays essential system information.
+- :rocket: Supports various Linux window managers.
+- :leaves: Provides memory, CPU, disk usage, and much more.
+- :shell:  Easy to use and extend.
+
+<div align="center">
+
+
+### :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
