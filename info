@@ -134,10 +134,10 @@ print-distro
 print-kernel
 print-cpu
 print-mem
+print-tarballs
+print-resolution
+print-patches
+print-packages
 print-shell
 print-wm
 print-resolution
-print-packages
-print-tarballs
-print-patches
-
