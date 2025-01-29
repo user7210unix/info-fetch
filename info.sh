@@ -115,8 +115,7 @@ print-init() {
    esac
 }
 
-
-
+current_time=$(date +"%H:%M - %d/%m/%Y")
 
 print-tarballs() {
    tarballs=$(find /home/$USER/sources -type f -name "*.tar.*" | wc -l)  # changed to user's home directory
@@ -128,7 +127,9 @@ print-patches() {
    color-echo "$1" "Patches" "$patches"
 }
 
-echo -e "\n$prp$USER@$HOSTNAME$rst\n"
+color-echo "$1" "DATE" "$current_time"
+
+
 print-distro
 print-kernel
 print-cpu
