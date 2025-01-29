@@ -12,4 +12,7 @@ clear
 
 info
 
+# Add space for readability
+echo -e "\n"
+
 echo "Installation complete! You can now use 'info' from anywhere."
