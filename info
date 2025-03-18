@@ -216,6 +216,6 @@ print-disk
 print-shell
 print-modules
 print-wm
+print-panel
 print-tarballs
 print-patches
-print-panel
