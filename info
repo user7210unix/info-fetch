@@ -2,7 +2,7 @@
 
 # simple system information script
 
-wms=(berry awesomewm easywm tinywm bspwm sway hyprland dwl i3 fusionwm dwm openbox twobwm pekwm)
+wms=(berry awesomewm easywm slimwm SlimWM tinywm bspwm sway hyprland dwl i3 fusionwm dwm openbox twobwm pekwm)
 
 # define colors for color-echo
 red="\e[31m"
